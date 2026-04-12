@@ -4,9 +4,9 @@
 ### Date: [04/12/2026]
 
 #### Goals for this Module
-- [ ] Continue building my digital prototype to be tested. 
-- [ ] Understand core features of game engine.
-- [ ] Apply some game engine concepts into my project. 
+- [x] Continue building my digital prototype to be tested. 
+- [x] Understand core features of game engine.
+- [x] Apply some game engine concepts into my project. 
 
 #### Progress
 - **What I accomplished**:
@@ -27,7 +27,7 @@
 #### Learnings
 - A game engine is a framework that has physics, sound and scripting to make the development easier.
 - Rendering can affect the visuals and the performance of the game.
-- Physsics systems can make the game more real. 
+- Physics systems can make the game more real. 
 
 #### Next Steps
 - Continue to improve the digital protype with make the gameplay mechanics better.

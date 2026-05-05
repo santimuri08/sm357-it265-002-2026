@@ -24,12 +24,6 @@ We also included that guard move twice after every third round to increase the t
 
 ### Date: April 25, 2026
 
-
-1. **Overview**
-   - Theme
-   - Setting
-   - Genre
-
 ## Table of contents
 1. **OVerview**
   - Theme

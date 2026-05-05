@@ -24,43 +24,49 @@ We also included that guard move twice after every third round to increase the t
 
 ### Date: April 25, 2026
 
+
+1. **Overview**
+   - Theme
+   - Setting
+   - Genre
+
 ## Table of contents
-1. Overview
-  a. Theme
-  b. Setting
-  c. Genre
-2. Core Gameplay Mechanics
-  a. Movement System
-  b. Guard System 
-  c. Item System
-  d. Player Interaction
-3. Target Platforms
-4. Monetization 
-5. Project Scope
-  a. Game Length
-  b. Development Time
-6. Influences
-7. Elevator Pitch
-8. Project Description
-  a. Brief Description
-  b. Detailed Description
-9. Systems 
-  a. Turn System
-  b. Caught State
-  c. Collision System
-  d. Trap System 
-  e. Items decisions
-10 Story and GamePlay
-  a. Story
-  b. Gameplay
-11. Assets needed
-  a. 2D Assets
-  b. Code
-12. Schedule
-  a. Phase 1 – Core Systems
-  b. Phase 2 – Gameplay Systems
-  c. Phase 3 – UI & Polish
-  d. Phase 4 – Testing
+1. **OVerview**
+  - Theme
+  - Setting
+  - Genre
+2. **Core Gameplay Mechanics**
+  - Movement System
+  - Guard System 
+  - Item System
+  - Player Interaction
+3. **Target Platforms**
+4. **Monetization** 
+5. **Project Scope**
+  - Game Length
+  - Development Time
+6. **Influences**
+7. **Elevator Pitch**
+8. **Project Description**
+  - Brief Description
+  - Detailed Description
+9. **Systems**
+  - Turn System
+  - Caught State
+  - Collision System
+  - Trap System 
+  - Items decisions
+10 **Story and GamePlay**
+  - Story
+  - Gameplay
+11. **Assets needed**
+  - 2D Assets
+  - Code
+12. **Schedule**
+  - Phase 1 – Core Systems
+  - Phase 2 – Gameplay Systems
+  - Phase 3 – UI & Polish
+  - Phase 4 – Testing
 
 
 ## Overview
